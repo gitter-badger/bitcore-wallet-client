@@ -1,5 +1,7 @@
 # bitcore-wallet-client
 
+[![Join the chat at https://gitter.im/gentlejack-community/bitcore-wallet-client](https://badges.gitter.im/gentlejack-community/bitcore-wallet-client.svg)](https://gitter.im/gentlejack-community/bitcore-wallet-client?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![NPM Package](https://img.shields.io/npm/v/bitcore-wallet-client.svg?style=flat-square)](https://www.npmjs.org/package/bitcore-wallet-client)
 [![Build Status](https://img.shields.io/travis/bitpay/bitcore-wallet-client.svg?branch=master&style=flat-square)](https://travis-ci.org/bitpay/bitcore-wallet-client)
 [![Coverage Status](https://coveralls.io/repos/bitpay/bitcore-wallet-client/badge.svg)](https://coveralls.io/r/bitpay/bitcore-wallet-client)
